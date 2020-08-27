@@ -18,15 +18,15 @@ Two application recommendation systems were created. One system accepts one pate
 ### 2. Reports  
 Project proposal: [CapstoneProject2_ProjectProposal.pdf]()  
 Milestone report 1: [CapstoneProject2_MilestoneReport1.pdf]()  
-Milestone report 2: [CapstoneProject2_MilestoneReport2.pdf]() 
+Milestone report 2: [CapstoneProject2_MilestoneReport2.pdf]()  
 **☆ Final report:** [CapstoneProject2_FinalReport.pdf]()  
   
 ### 3. Presentation  
   **☆ [CapstonProject2_PresentationSlide]()**  
   
 ### 4. Figures
-System 1 workflow: [system_1.png](https://github.com/NamikoNa/Application_Recommendation_System_for_Biodegradable_Polymer_CapstoneProject2/blob/master/system_1.png)
-System 2 workflow: [system_2.png](https://github.com/NamikoNa/Application_Recommendation_System_for_Biodegradable_Polymer_CapstoneProject2/blob/master/system_2.png)
+System 1 workflow: [system_1.png](https://github.com/NamikoNa/Application_Recommendation_System_for_Biodegradable_Polymer_CapstoneProject2/blob/master/system_1.png)  
+System 2 workflow: [system_2.png](https://github.com/NamikoNa/Application_Recommendation_System_for_Biodegradable_Polymer_CapstoneProject2/blob/master/system_2.png)  
   
 This project was conducted as a part of the Data Science Career Track Course at Springboard. My deepest appreciation goes to them, especially to my mentor, who gave me constructive comments and warm encouragement.  
 
