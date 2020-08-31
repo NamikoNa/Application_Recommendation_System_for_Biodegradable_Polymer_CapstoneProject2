@@ -16,13 +16,13 @@ Two application recommendation systems were created. One system accepts one pate
 [CapstoneProject2_codes.ipynb](https://github.com/NamikoNa/Application_Recommendation_System_for_Biodegradable_Polymer_CapstoneProject2/blob/master/CapstoneProject2_codes.ipynb)  
   
 ### 2. Reports  
-Project proposal: [CapstoneProject2_ProjectProposal.pdf]()  
-Milestone report 1: [CapstoneProject2_MilestoneReport1.pdf]()  
-Milestone report 2: [CapstoneProject2_MilestoneReport2.pdf]()  
-**☆ Final report:** [CapstoneProject2_FinalReport.pdf]()  
+Project proposal: [CapstoneProject2_ProjectProposal.pdf](https://github.com/NamikoNa/Application_Recommendation_System_for_Biodegradable_Polymer_CapstoneProject2/blob/master/CapstoneProject2_ProjectProposal.pdf)  
+Milestone report 1: [CapstoneProject2_MilestoneReport1.pdf](https://github.com/NamikoNa/Application_Recommendation_System_for_Biodegradable_Polymer_CapstoneProject2/blob/master/CapstoneProject2_MilestoneReport1.pdf)  
+Milestone report 2: [CapstoneProject2_MilestoneReport2.pdf](https://github.com/NamikoNa/Application_Recommendation_System_for_Biodegradable_Polymer_CapstoneProject2/blob/master/CapstoneProject2_MilestoneReport2.pdf)  
+**☆ Final report:** [CapstoneProject2_FinalReport.pdf](https://github.com/NamikoNa/Application_Recommendation_System_for_Biodegradable_Polymer_CapstoneProject2/blob/master/CapstoneProject2_FinalReport.pdf)  
   
 ### 3. Presentation  
-  **☆ [CapstonProject2_PresentationSlide]()**  
+  **☆ [CapstonProject2_PresentationSlide](https://github.com/NamikoNa/Application_Recommendation_System_for_Biodegradable_Polymer_CapstoneProject2/blob/master/CapstonProject2_PresentationSlide.pdf)**  
   
 ### 4. Figures
 System 1 workflow: [system_1.png](https://github.com/NamikoNa/Application_Recommendation_System_for_Biodegradable_Polymer_CapstoneProject2/blob/master/system_1.png)  
